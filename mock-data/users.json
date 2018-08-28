@@ -4,7 +4,7 @@
     "password": "123",
     "books": [
       {
-        "title": "JS is suck!",
+        "title": "JS is suck1",
         "author": "PHP developer"
       }
     ]
@@ -14,7 +14,7 @@
     "password": "123",
     "books": [
       {
-        "title": "JS is suck!",
+        "title": "JS is suck2",
         "author": "PHP developer"
       }
     ]
@@ -24,7 +24,7 @@
     "password": "123",
     "books": [
       {
-        "title": "JS is suck!",
+        "title": "JS is suck3",
         "author": "PHP developer"
       }
     ]
@@ -34,7 +34,7 @@
     "password": "123",
     "books": [
       {
-        "title": "JS is suck!",
+        "title": "JS is suck4",
         "author": "PHP developer"
       }
     ]
